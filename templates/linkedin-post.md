@@ -1,7 +1,7 @@
 # LinkedIn post template
 
 ```
-[Hook: the problem in one sentence, from the job seeker's point of view]
+[Hook: the everyday problem in one sentence]
 
 🎄 Door {N}/24: {Tool name}
 
@@ -9,10 +9,10 @@ The problem: {one or two sentences, concrete}
 
 What I built:
 → Input: {what you give it}
-→ {AI step, in plain words}
+→ {what happens, in plain words}
 → Output: {what you get}
 
-The part that matters: {technique}.
+Why this isn't just a prompt: {data / memory / photo / voice / automation / algorithm}.
 I tested it on {n} real {cases}: {score v1} → {final score} after {k} iterations.
 What still fails: {one honest limit}
 
@@ -26,9 +26,13 @@ Built with {tools}. All 24 tools: {repo link}
 #LifeInGermany #AIAutomation #{topic}
 ```
 
+## Visual template
+Carousel slides (cover, how it works, result) and the kick-off image: https://claude.ai/artifact/NRfUjE2YPTHcnrBVzKWakA
+
 ## Rules
 - First 2 lines decide if people click "see more": problem first, not "Day 7!".
-- One number per post (score, minutes saved, cost per run).
+- Always answer "why isn't this just a prompt?" in one line.
+- One number per post (score, days off, minutes saved). Only real numbers from your tests.
 - One honest limit: it builds trust.
 - 30-second screen recording or 1 screenshot; no slides needed.
 - Test the link in the post vs in the first comment and keep what works for you.
