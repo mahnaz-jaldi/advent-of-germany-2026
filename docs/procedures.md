@@ -21,7 +21,7 @@
 
 ## 3. Evaluation method
 
-- **Cases**: 10–20 per door; mix easy, typical and tricky inputs. Include both marketing and quality-engineering examples where relevant.
+- **Cases**: 10–20 per door; mix easy, typical and tricky inputs. Include real-life edge cases (other cities, dialects, unusual inputs).
 - **Pass rule**: written before building (for example "all must-have requirements found, no invented ones").
 - **Score**: passed cases / total cases. Record per version.
 - **Model comparison** (where relevant): same cases, two models; record score, cost per run and time per run.
@@ -30,10 +30,10 @@
 
 ## 4. Rules
 
-- **Privacy**: anonymise CVs, emails and letters. For job ads store the link plus your own labels, or a short excerpt, not full copies.
+- **Privacy**: anonymise letters, notes, contracts, emails and voice recordings. For ads store the link plus your own labels, not full copies.
 - **Secrets**: API keys live in `.env` or n8n credentials, never in the repo. Exported n8n workflows are checked for credentials before commit.
 - **Human in the loop**: no tool sends an email, message or application on its own.
-- **Not advice**: degree recognition, official letters and reference letters: explain and link to official sources; no legal advice.
+- **Not advice**: official letters, contracts and flat ads: explain and link to official sources; no legal advice.
 - **Transparency**: every post says it was built with AI tools and what your part was.
 
 ## 5. Rhythm

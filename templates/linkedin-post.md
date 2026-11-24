@@ -21,9 +21,9 @@ What I learned today: {one line}
 Try it: link in the first comment 👇
 Built with {tools}. All 24 tools: {repo link}
 
-{Question to the reader, e.g. "Which part of the German application process cost you the most time?"}
+{Question to the reader, e.g. "Which German rule still confuses you?"}
 
-#JobSearchGermany #AIAutomation #MarketingAutomation #{topic}
+#LifeInGermany #AIAutomation #{topic}
 ```
 
 ## Rules
@@ -35,7 +35,7 @@ Built with {tools}. All 24 tools: {repo link}
 - Reply to every comment in the first hour.
 
 ## Kick-off post (30 Nov)
-Hook: what international job seekers in Germany struggle with → what the calendar is → what you will measure → follow + repo link.
+Hook: the everyday things that are hard about life in Germany → what the calendar is → the rule (no tool a single prompt could replace) → what you will measure → follow + repo link.
 
 ## Finale post (24 Dec)
-Results table of all doors, 3 lessons, the most-used tool, thank-you, what is next.
+Results table of all doors, 3 lessons, the most-used tool, thank-you, what is next (including that you are open to roles in marketing automation / AI / quality).

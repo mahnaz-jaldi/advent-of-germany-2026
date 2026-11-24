@@ -1,6 +1,7 @@
 # Door NN: Name
 
 **Problem:** one sentence.
+**Beyond a prompt:** what makes this more than one chat prompt.
 **User:** who uses it.
 **Input → output:** what goes in, what comes out.
 **Technique:** the professional AI technique this door shows.
